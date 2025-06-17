@@ -1,0 +1,86 @@
+1.0 The puppy played with the ball.
+0.0 The tablet battery drained fast.
+1.0 The novel was difficult to put down.
+0.0 The dinner was cold and flavorless.
+1.0 They walked along the riverbank.
+0.0 The printer ran out of ink quickly.
+1.0 The garden is full of blooming roses.
+0.0 The sound system is distorted.
+1.0 The movie had an unexpected twist.
+0.0 The keys are lost somewhere.
+1.0 She painted a picture of the lake.
+0.0 The oven does not heat evenly.
+1.0 The cafe serves organic coffee.
+0.0 The window lock is broken.
+1.0 The festival was fun and lively.
+0.0 The fan stopped working suddenly.
+1.0 The children played hide and seek.
+0.0 The app crashes on my phone.
+1.0 The bookstore has a huge selection.
+0.0 The water pipe started leaking.
+1.0 The mountain air smells fresh.
+0.0 The headphones disconnected often.
+1.0 The concert was loud and exciting.
+0.0 The keyboard keys stick randomly.
+1.0 The sunset was painted in pink and orange.
+0.0 The shower water is cold.
+1.0 The bakery sells fresh bread every morning.
+0.0 The phone screen cracked after dropping.
+1.0 The dog barked loudly at strangers.
+0.0 The car engine makes unusual sounds.
+1.0 The garden has many different flowers.
+0.0 The microwave door won't close.
+1.0 The movie was inspiring and emotional.
+0.0 The heater makes a humming noise.
+1.0 They enjoyed a peaceful walk in the park.
+0.0 The dishwasher left water spots.
+1.0 The music festival attracted many visitors.
+0.0 The phone battery overheats quickly.
+1.0 The art gallery displayed vibrant paintings.
+0.0 The stove burners are not working.
+1.0 The lake was calm and reflective.
+0.0 The remote control stopped responding.
+1.0 The hike through the forest was refreshing.
+0.0 The toilet is clogged.
+1.0 The cafe offers delicious pastries.
+0.0 The lamp flickers when turned on.
+1.0 The museum had ancient artifacts.
+0.0 The printer jammed for the third time.
+1.0 The flowers attract many bees.
+0.0 The bike brakes squeak loudly.
+1.0 The concert hall has excellent acoustics.
+0.0 The app freezes sometimes.
+1.0 The beach had soft white sand.
+0.0 The roof leak caused damage.
+1.0 The book is a bestseller.
+0.0 The heater thermostat is broken.
+1.0 The children laughed while playing.
+0.0 The monitor flickers intermittently.
+1.0 The bakery creates delicious cakes.
+0.0 The faucet leaks continuously.
+1.0 The city park is a great place to relax.
+0.0 The elevator stopped suddenly.
+1.0 The mountain trail is beautiful.
+0.0 The phone lost signal.
+1.0 The dog is very friendly.
+0.0 The toilet flush is weak.
+1.0 The festival had street performers.
+0.0 The keyboard is unresponsive.
+1.0 The library has many rare books.
+0.0 The app failed to update.
+1.0 The coffee tastes rich.
+0.0 The washing machine makes noise.
+1.0 The museum tour was informative.
+0.0 The door handle is loose.
+1.0 The garden is full of butterflies.
+0.0 The lights keep flickering.
+1.0 The concert was unforgettable.
+0.0 The speakers do not work.
+1.0 The bakery's bread is freshly baked.
+0.0 The battery dies quickly.
+1.0 The sunset views are spectacular.
+0.0 The phone charger is broken.
+1.0 The hike was invigorating.
+0.0 The TV screen is cracked.
+1.0 The cafe has a welcoming atmosphere.
+0.0 The laptop overheats easily.

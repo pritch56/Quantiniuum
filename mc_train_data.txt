@@ -1,0 +1,126 @@
+1.0 The cat sat on the mat.
+0.0 The weather is terrible today.
+1.0 I love sunny days and warm weather.
+0.0 This movie was very boring and too long.
+1.0 The book was fascinating and well written.
+0.0 I did not like the food at the restaurant.
+1.0 She enjoys hiking in the mountains.
+0.0 The service was slow and unprofessional.
+1.0 He passed the exam with flying colors.
+0.0 This product broke after one use.
+1.0 We had a great time at the concert.
+0.0 The instructions were confusing and unclear.
+1.0 They went for a peaceful walk in the park.
+0.0 The phone battery drains very fast.
+1.0 The garden is blooming with colorful flowers.
+0.0 Traffic was awful during the commute.
+1.0 She baked delicious chocolate cookies.
+0.0 The hotel room was dirty and noisy.
+1.0 The children played happily in the playground.
+0.0 I won't recommend this app to anyone.
+1.0 The marathon runner finished first.
+0.0 The computer crashed multiple times.
+1.0 He enjoys painting landscapes.
+0.0 The wifi connection is unstable.
+1.0 The coffee shop has a cozy atmosphere.
+0.0 The package arrived damaged.
+1.0 We watched a thrilling football game.
+0.0 The software update caused issues.
+1.0 The restaurant serves fresh seafood.
+0.0 The delivery took too long.
+1.0 She wrote a heartfelt letter.
+0.0 The sculpture was poorly made.
+1.0 The festival attracted many visitors.
+0.0 The air conditioner is not working.
+1.0 He found a new job he loves.
+0.0 The camera lens is scratched.
+1.0 The bakery sells the best bread.
+0.0 The instructions were missing steps.
+1.0 The movie had an inspiring storyline.
+0.0 The screen has dead pixels.
+1.0 They organized a successful charity event.
+0.0 The customer support was unhelpful.
+1.0 The garden smells wonderful in spring.
+0.0 The earbuds stopped working suddenly.
+1.0 The book provides valuable knowledge.
+0.0 The app crashes on startup.
+1.0 She enjoys jogging every morning.
+0.0 The chair is uncomfortable to sit on.
+1.0 The city has beautiful architecture.
+0.0 The website is difficult to navigate.
+1.0 The puppy is playful and friendly.
+0.0 The battery life is disappointing.
+1.0 The conference was very informative.
+0.0 The food was undercooked.
+1.0 They painted the house bright yellow.
+0.0 The floor was slippery and dangerous.
+1.0 The hike offered stunning views.
+0.0 The headphones produce static noise.
+1.0 The presentation was clear and concise.
+0.0 The printer jammed several times.
+1.0 She enjoys listening to jazz music.
+0.0 The stove does not heat evenly.
+1.0 The beach was clean and relaxing.
+0.0 The app frequently freezes.
+1.0 The flowers grow quickly in summer.
+0.0 The video was blurry and hard to watch.
+1.0 The theater performance was captivating.
+0.0 The faucet leaks water constantly.
+1.0 He plays the guitar beautifully.
+0.0 The door handle is broken.
+1.0 They hosted a lovely dinner party.
+0.0 The clock stopped working.
+1.0 The sunset was breathtakingly beautiful.
+0.0 The keyboard keys stick.
+1.0 The museum had interesting exhibits.
+0.0 The car engine makes strange noises.
+1.0 The cafe serves excellent coffee.
+0.0 The shower water is cold.
+1.0 They enjoy cycling on weekends.
+0.0 The TV remote does not respond.
+1.0 The painting has vibrant colors.
+0.0 The blender stopped mid-use.
+1.0 The park is ideal for picnics.
+0.0 The microwave is faulty.
+1.0 The author's writing style is engaging.
+0.0 The vacuum cleaner lost suction.
+1.0 The mountain trail was well marked.
+0.0 The lights flicker intermittently.
+1.0 The novel was a page-turner.
+0.0 The fridge makes loud noises.
+1.0 The garden path is well maintained.
+0.0 The phone screen cracked easily.
+1.0 The playground equipment is safe.
+0.0 The tiles are cracked.
+1.0 The workshop was hands-on and helpful.
+0.0 The cable connection is loose.
+1.0 The bakery creates delicious pastries.
+0.0 The sofa fabric tears easily.
+1.0 The outdoor concert was enjoyable.
+0.0 The window blinds don't open properly.
+1.0 The library offers a vast collection of books.
+0.0 The mattress is too firm.
+1.0 She won the art competition.
+0.0 The computer keyboard is unresponsive.
+1.0 The hiking boots are very comfortable.
+0.0 The paint peels off the walls.
+1.0 They visited an ancient castle.
+0.0 The phone receiver is distorted.
+1.0 The beach had crystal-clear water.
+0.0 The car brakes are squeaky.
+1.0 The concert hall has great acoustics.
+0.0 The air conditioning is too cold.
+1.0 The café offers vegan options.
+0.0 The dishwasher leaves spots on dishes.
+1.0 The movie soundtrack is memorable.
+0.0 The water heater is leaking.
+1.0 They adopted a cheerful puppy.
+0.0 The staircase is creaky.
+1.0 The bakery smells heavenly.
+0.0 The gate is stuck.
+1.0 The painting workshop was inspiring.
+0.0 The faucet is rusty.
+1.0 The mountain air is fresh and crisp.
+0.0 The elevator is slow.
+1.0 The city plaza is lively at night.
+0.0 The thermostat is broken.
